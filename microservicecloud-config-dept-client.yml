@@ -8,7 +8,7 @@ server:
 spring:
    profiles: dev
    application:
-    name: microservicecloud-config-eureka-client
+    name: microservicecloud-config-dept-client
    datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: org.gjt.mm.mysql.Driver              # mysql驱动包
